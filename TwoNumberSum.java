@@ -15,8 +15,6 @@ public class TwoNumberSum {
 			if (integers.contains(validInt)) {
 				System.out.println("There is a pair contained.");
 				break;
-			} else {
-				System.out.println("There is no pair.");
 			}
 		}
 	}
